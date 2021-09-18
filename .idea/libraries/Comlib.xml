@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Comlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Comlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
